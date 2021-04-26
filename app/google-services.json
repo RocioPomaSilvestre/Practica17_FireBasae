@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "157768385011",
+    "firebase_url": "https://practica17firebase-default-rtdb.firebaseio.com",
+    "project_id": "practica17firebase",
+    "storage_bucket": "practica17firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157768385011:android:8bdfed7e87931f93e89286",
+        "android_client_info": {
+          "package_name": "com.rocio.poma.practica17_firebasae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157768385011-i86sfm9m6pss3d1m3968esg1cpd4ms77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwp890PkUmVrxAI0atTF2XZZVtmioAK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157768385011-i86sfm9m6pss3d1m3968esg1cpd4ms77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
